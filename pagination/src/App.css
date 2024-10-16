@@ -7,7 +7,7 @@ body{
 
 h1{
     text-align:center;
-    color:#333;
+    color:#33333381;
     margin-bottom:20px;
 }
 
@@ -40,6 +40,9 @@ li:hover{
     display:flex;
     justify-content: center;
     margin-top:20px;
+   
+
+    
     gap:10px;
 }
 
@@ -62,8 +65,10 @@ button{
 }
 
 .active{
-    background-color: rgb(238, 75, 124);
-    color:white;
+    background-color: rgb(32, 245, 42);
+    color:rgb(11, 10, 10);
+    border: 2px solid black;
+    font-weight: bold;
 }
 
 
